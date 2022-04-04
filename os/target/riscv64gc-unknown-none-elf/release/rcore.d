@@ -1,0 +1,1 @@
+/home/bittervan/Repos/rcore/target/riscv64gc-unknown-none-elf/release/rcore: /home/bittervan/Repos/rcore/src/console.rs /home/bittervan/Repos/rcore/src/entry.asm /home/bittervan/Repos/rcore/src/lang_items.rs /home/bittervan/Repos/rcore/src/main.rs /home/bittervan/Repos/rcore/src/sbi.rs
